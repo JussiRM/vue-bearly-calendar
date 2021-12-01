@@ -1,6 +1,8 @@
 # BearlyCalendar
 Work in progress.
 
+![Alt text](/screenshot.gif?raw=true "EPIC OVERFLOW")
+
 # Coding Guidelines
 - Use tabs (not spaces)
 
