@@ -1,4 +1,10 @@
-# bearcalendar
+# BearlyCalendar
+Work in progress.
+
+# Coding Guidelines
+- Use tabs (not spaces)
+
+# Vue-cli stuff:
 
 ## Project setup
 ```
